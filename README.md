@@ -1,9 +1,14 @@
 # US Teknoloji teknik kaynakları
 
-Bu depo, US Teknoloji'nin marka ve şehir bazlı dedektör kaynaklarını şeffaf biçimde dizinler.
+Bu depo, US Teknoloji'nin gerçek saha faaliyetlerini, ölçüm yöntemlerini ve marka/şehir bazlı kaynaklarını şeffaf biçimde yayımlar.
 
+- [Gerçek saha haberleri](HABERLER.md)
 - [Tüm web sitesi kaynak dizini](SITE-DIZINI.md)
 - [Saha değerlendirme yöntemi](README.md#saha-değerlendirme-yöntemi)
+
+## Gerçek hizmet modeli
+
+US Teknoloji; Ford Ranger mobil saha ekibiyle Türkiye'nin 81 iline cihaz, operatör ve arazi desteği ulaştırır. Değerli malzeme tespiti için cihaz kiralayan ancak kullanımı konusunda desteğe ihtiyaç duyan müşterilere ekipli çalışma seçeneği sunulur. GPR radar, klasik metal dedektörü ve diğer yeraltı görüntüleme yöntemleri kendi teknik sınırları içinde ayrı değerlendirilir.
 
 ## Saha değerlendirme yöntemi
 
