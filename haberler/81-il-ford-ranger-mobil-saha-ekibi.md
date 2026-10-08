@@ -1,22 +1,22 @@
 # US Teknoloji Ford Ranger mobil saha ekibiyle 81 ile hizmet ulaştırıyor
 
-US Teknoloji’nin saha operasyonu tek bir şehir veya mağaza ziyaretiyle sınırlı değildir. Türkiye’nin 81 iline cihaz, saha donanımı ve operatör desteği ulaştırılabilir. Çalışmaların önemli bölümünde ekip Ford Ranger araçla araziye gider; ihtiyaç halinde firma yetkilisi de ölçüm ve değerlendirme sürecine doğrudan katılır.
+US Teknoloji’nin saha operasyonu tek bir şehir veya mağaza ziyaretiyle sınırlı değildir. Türkiye’nin 81 iline yönelik ekipli saha çalışmaları planlanır. Ekip, cihaz ve saha donanımını çalışma alanına ulaştırır; cihaz müşterinin bağımsız kullanımı için teslim edilmez ve tek başına kiraya verilmez. Çalışmaların önemli bölümünde ekip Ford Ranger araçla araziye gider; ihtiyaç halinde firma yetkilisi de ölçüm ve değerlendirme sürecine doğrudan katılır.
 
 ## Mobil ekip modelinin amacı
 
-Birçok kullanıcı değerli malzeme tespiti, dedektör seçimi veya yeraltı görüntüleme için cihaz kiralamak ister ancak cihazın ayarlarını ve saha sinyallerini yorumlamakta zorlanır. Bu nedenle kiralama hizmeti, talebe göre ekipli ve operatörlü çalışma biçiminde planlanır.
+Hizmet, cihazın ekip ve operatör tarafından kullanıldığı saha çalışması ile ölçüm, analiz ve raporlama süreçlerini kapsar. Operatör desteği isteğe bağlı bir ek hizmet değildir.
 
-Mobil saha hizmeti şu adımları kapsayabilir:
+Çalışma öncesinde telefon veya mesaj üzerinden hedef ve saha bilgisi alınır. Uygun cihaz, bobin/başlık ve yardımcı donanım belirlenir; ulaşım, çalışma alanı ve süre planlanır.
 
-1. Telefon veya mesaj üzerinden hedef ve saha bilgisinin alınması.
-2. Uygun cihaz, bobin/başlık ve yardımcı donanımın seçilmesi.
-3. Ulaşım ve çalışma süresinin planlanması.
-4. Cihazın sahada kurulması, zemin ayarı ve parazit kontrolü.
-5. Şüpheli sinyallerin tekrar ölçülmesi ve kayıt altına alınması.
-6. Kullanıcıya sonuçların, sınırların ve sonraki adımların açıklanması.
+## Hizmetin aşamaları
 
-GPR radar çalışmaları, klasik metal dedektörü uygulamaları ve farklı görüntüleme sistemleri aynı yöntemmiş gibi sunulmaz. Her proje kendi hedefi, zemini ve ölçüm tekniği içinde değerlendirilir.
+1. **Operatörlü saha çalışması:** Ekip, çalışma alanını ve uygun cihazı belirler; cihaz kurulumu, zemin ayarı ve parazit kontrollerini sahada yapar. Cihazı US Teknoloji ekibi kullanır.
+2. **Ölçüm:** Seçilen yönteme göre saha verileri toplanır, gerekli tekrar ölçümleri yapılır ve ölçüm koşulları kaydedilir.
+3. **Analiz:** Ölçüm verileri kullanılan yöntemin teknik sınırları ve saha koşullarıyla birlikte değerlendirilir.
+4. **Raporlama:** Ölçüm bulguları, analiz yorumları, çalışmanın sınırları ve kesinleştirilemeyen noktalar raporda açıklanır.
+
+GPR radar çalışmaları, klasik metal dedektörü uygulamaları ve farklı görüntüleme sistemleri aynı yöntemmiş gibi sunulmaz. Her proje kendi hedefi, zemini ve ölçüm tekniği içinde değerlendirilir; kesin hedef veya garantili derinlik vaadi verilmez.
 
 ## Türkiye geneli hizmet
 
-Ürün, cihaz kiralama ve mobil ekip planlaması için [usdedektor.com.tr](https://usdedektor.com.tr/) üzerinden bilgi alınabilir.
+Ekipli saha çalışması, ölçüm, analiz ve raporlama hizmetinin kapsamı ve mobil ekip planlaması için [usdedektor.com.tr](https://usdedektor.com.tr/) üzerinden bilgi alınabilir.

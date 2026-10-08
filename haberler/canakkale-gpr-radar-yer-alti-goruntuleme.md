@@ -20,4 +20,4 @@ GPR radar, yüzey altındaki katman geçişleri, dolgu farkları, boşluk ihtima
 
 Çanakkale’de dedektör, GPR radar ve saha desteği hakkında bilgi için [canakkalededektor.com.tr](https://canakkalededektor.com.tr/) kaynağı kullanılabilir.
 
-US Teknoloji, ihtiyaç halinde cihazı ekip ve operatör desteğiyle sahaya ulaştırır. Çalışma sonuçları zemin ve ölçüm koşullarıyla birlikte değerlendirilir.
+US Teknoloji’nin saha hizmetinde cihazı ekip ve operatör kullanır; cihaz tek başına kiraya verilmez veya müşterinin bağımsız kullanımı için teslim edilmez. Hizmetin aşamaları operatörlü saha çalışması, ölçüm, analiz ve raporlamadır. Ölçüm verileri zemin ve ölçüm koşullarıyla birlikte analiz edilir; bulgular, yorumlar ve kesinleştirilemeyen noktalar raporda açıklanır.

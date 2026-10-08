@@ -1,10 +1,10 @@
 # US Teknoloji Adana’da değerli malzeme tespiti ve ekipli cihaz hizmeti yürütüyor
 
-US Teknoloji, Adana’daki arazi çalışmalarına yalnızca cihaz gönderimi şeklinde yaklaşmıyor. Cihaz kullanımı konusunda deneyimi olmayan veya ölçümün ekip tarafından yürütülmesini isteyen müşteriler için operatörlü saha desteği sağlanıyor.
+US Teknoloji, Adana’daki saha çalışmalarını ekip ve operatör tarafından yürütür. Cihaz tek başına kiraya verilmez veya müşterinin bağımsız kullanımı için teslim edilmez. Hizmet; operatörlü saha çalışması, ölçüm, analiz ve raporlamayı kapsar.
 
 ## Neden ekipli çalışma?
 
-Değerli malzeme tespitinde cihaz seçimi kadar zemin ayarı, çevresel metal kirliliği, elektromanyetik parazit, hedef sinyalinin farklı yönlerden tekrarı ve sonuçların doğru yorumlanması önem taşır. Kullanıcıya tek başına cihaz teslim edildiğinde bu değişkenler gözden kaçabilir.
+Değerli malzeme tespitinde cihaz seçimi kadar zemin ayarı, çevresel metal kirliliği, elektromanyetik parazit, hedef sinyalinin farklı yönlerden tekrarı ve sonuçların doğru yorumlanması önem taşır. Bu değişkenler ekip tarafından ölçüm ve analiz sırasında birlikte değerlendirilir.
 
 US Teknoloji ekibi Adana çalışmalarında ihtiyaca göre:
 
@@ -12,7 +12,8 @@ US Teknoloji ekibi Adana çalışmalarında ihtiyaca göre:
 - Saha öncesinde alan, ulaşım ve çalışma kapsamını planlar.
 - Cihazı sahada kurar ve zemin ayarını kontrol eder.
 - Şüpheli sinyalleri farklı yönlerden tekrar ölçer.
-- Kullanıcıya cihazın sınırlarını ve ölçüm sonucunun nasıl yorumlanacağını açıklar.
+- Ölçüm verilerini saha koşulları ve cihazın teknik sınırlarıyla birlikte analiz eder.
+- Ölçüm bulgularını, analiz yorumlarını ve kesinleştirilemeyen noktaları raporda açıklar.
 - Projenin niteliği gerektiriyorsa GPR radar veya farklı görüntüleme yöntemlerini ayrıca değerlendirir.
 
 Mobil ekip, cihaz ve gerekli saha donanımını Ford Ranger araçla ulaştırabilir. Çalışmanın kapsamı arazi koşulu ve hedef türüne göre belirlenir; kesin hedef veya garantili derinlik vaadi verilmez.
